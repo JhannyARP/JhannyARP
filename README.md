@@ -1,56 +1,34 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=B4BEFE&height=180&section=header&text=Bem-vinda%20ao%20meu%20espaço!%20✨&fontSize=40&animation=fadeIn&fontAlignY=35&theme=gradient" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Em%20Evolução-f5c2e7?style=for-the-badge&logoColor=white" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&customColorList=0,ff0000,15,ff7f00,30,ffff00,45,00ff00,60,0000ff,75,4b0082,100,8b00ff&height=200&section=header&text=Bem-vinda%20ao%20meu%20Mundo%20Tech!%20🌈&fontSize=40&animation=fadeIn&fontAlignY=35" />
 </p>
 
 ---
 
-### ☁️ Sobre mim
+### 🎨 Sobre Mim
+Sou uma desenvolvedora apaixonada por cores, criatividade e pela **evolução tecnológica através da IA**. Meu foco é transformar dados e lógica em experiências visuais incríveis!
 
-Sou uma entusiasta de **Inteligência Artificial** e **Tecnologia**. Atualmente, foco em transformar ideias em códigos elegantes e funcionais, sempre buscando aprender algo novo a cada commit.
-
-- 🌱 Atualmente estudando: **IA & Data Science**
-- 🎨 Paixões: Desenvolvimento Web e Design Minimalista
-- 📍 Localizada em: **Paraná, Brasil**
-
----
-
-### 🎀 Minha Toolbox (Linguagens & Ferramentas)
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Python-cba6f7?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-89b4fa?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-fab387?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-74c7ec?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-f38ba8?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-94e2d5?style=for-the-badge&logo=php&logoColor=white" />
-</div>
+- 🌈 **Foco Principal:** Inteligência Artificial e Data Science
+- 👩‍💻 **Atualmente:** Estudante de Tecnologia e Assistente na área da saúde
+- 📍 **Localização:** Contenda, PR
 
 ---
 
-### 📊 Minhas Atividades
+### 🛠️ Minha Toolbox (Rainbow Style)
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&border_radius=10" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&border_radius=10" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-FF0000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-FF7F00?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-FFFF00?style=for-the-badge&logo=html5&logoColor=000" />
+  <img src="https://img.shields.io/badge/CSS3-00FF00?style=for-the-badge&logo=css3&logoColor=000" />
+  <img src="https://img.shields.io/badge/Java-0000FF?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-4B0082?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-8B00FF?style=for-the-badge&logo=c&logoColor=white" />
 </p>
 
 ---
 
-### ☁️ Vamos conversar?
+### 📊 Meu Foco e Linguagens (Porcentagem)
 
 <p align="center">
-  <a href="LINK_DO_SEU_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-89b4fa?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:SEU_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-eba0ac?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=pie&theme=radical&hide_border=false" />
 </p>
