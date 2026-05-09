@@ -30,5 +30,5 @@ Sou uma desenvolvedora apaixonada por cores, criatividade e pela **evolução te
 ### 📊 Meu Foco e Linguagens (Porcentagem)
 
 <p align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=pie&theme=radical&hide_border=false" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhanny_ARP&layout=pie&theme=radical&hide_border=false" />
 </p>
