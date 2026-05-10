@@ -1,18 +1,12 @@
 # Jhanny 🚀
 
-
-
 <div align="left">
-  
   <p>
     Graduada em Análise e Desenvolvimento de Sistemas (ADS), possuo sólida base técnica em PHP, Java (POO) e SQL. Atualmente, foco minha evolução profissional e acadêmica no domínio da     Inteligência Artificial, unindo lógica estruturada ao desenvolvimento de soluções inteligentes e responsivas. Busco transformar dados e código em ferramentas eficientes, com um olhar     voltado para o aprendizado contínuo e a inovação tecnológica. 🚀
-    
   </p>
- <img  src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm9jb3I0azE4bGFlYXk5c2o4cHB3bTUwaHRueHJiY2FkYXhpdGl2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/I3rbjijgss7D2Oab2A/giphy.gif" width="80" align="right" />
-</div>
+  
+  </div>
 <br clear="left" />
-
-
 
 <div align="left">
   <img src="https://custom-icon-badges.demolab.com/badge/-Adaptabilidade-dodgerblue?style=for-the-badge&logoColor=white&logo=workflow" height="25" alt="linkedin logo"  />
@@ -109,7 +103,7 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
-
+ <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm9jb3I0azE4bGFlYXk5c2o4cHB3bTUwaHRueHJiY2FkYXhpdGl2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/I3rbjijgss7D2Oab2A/giphy.gif"   width="80" align="right" />
 <br/>
 <br/>
 
