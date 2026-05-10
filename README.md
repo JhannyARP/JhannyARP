@@ -1,5 +1,16 @@
 # Jhanny 🚀
 
+
+
+<div align="center">
+  <img src="https://custom-icon-badges.demolab.com/badge/-Adaptabilidade-dodgerblue?style=for-the-badge&logoColor=white&logo=linkedin" height="25" alt="linkedin logo"  />
+  <img src="https://custom-icon-badges.demolab.com/badge/-Comunicação-cornflowerblue?style=for-the-badge&logoColor=white&logo=message-circle" height="25" alt="twitter logo"  />
+  <img src="https://custom-icon-badges.demolab.com/badge/-Pensamento%20analítico-slateblue?style=for-the-badge&logoColor=white&logo=search" height="25" alt="discord logo"  />
+  <img src="https://custom-icon-badges.demolab.com/badge/-Aprendizado%20contínuo-rebeccapurple?style=for-the-badge&logoColor=white&logo=book-open" height="25" alt="twitch logo"  />
+  <img src="https://custom-icon-badges.demolab.com/badge/-Criatividade-fuchsia?style=for-the-badge&logoColor=white&logo=zap" height="25" alt="devto logo"  />
+</div>
+---
+
 ### ✨ Linguagens e Tecnologias
 
 <img 
