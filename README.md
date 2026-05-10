@@ -23,7 +23,6 @@
 ### ✨ Linguagens e Tecnologias
 
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm9jb3I0azE4bGFlYXk5c2o4cHB3bTUwaHRueHJiY2FkYXhpdGl2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/I3rbjijgss7D2Oab2A/giphy.gif"   width="80" align="right" />
 
 <img 
     align="left" 
@@ -125,6 +124,7 @@
       src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=JhannyARP&layout=compact&theme=tokyonight" 
   />
 
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm9jb3I0azE4bGFlYXk5c2o4cHB3bTUwaHRueHJiY2FkYXhpdGl2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/I3rbjijgss7D2Oab2A/giphy.gif"   width="80" align="right" />
 
 
 </p>
