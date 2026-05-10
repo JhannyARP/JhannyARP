@@ -1,14 +1,16 @@
 # Jhanny 🚀
 
+Graduada em Análise e Desenvolvimento de Sistemas (ADS), possuo sólida base técnica em PHP, Java (POO) e SQL. Atualmente, foco minha evolução profissional e acadêmica no domínio da Inteligência Artificial, unindo lógica estruturada ao desenvolvimento de soluções inteligentes e responsivas. Busco transformar dados e código em ferramentas eficientes, com um olhar voltado para o aprendizado contínuo e a inovação tecnológica. 🚀
 
 
-<div align="center">
-  <img src="https://custom-icon-badges.demolab.com/badge/-Adaptabilidade-dodgerblue?style=for-the-badge&logoColor=white&logo=linkedin" height="25" alt="linkedin logo"  />
+<div align="left">
+  <img src="https://custom-icon-badges.demolab.com/badge/-Adaptabilidade-dodgerblue?style=for-the-badge&logoColor=white&logo=workflow" height="25" alt="linkedin logo"  />
   <img src="https://custom-icon-badges.demolab.com/badge/-Comunicação-cornflowerblue?style=for-the-badge&logoColor=white&logo=message-circle" height="25" alt="twitter logo"  />
   <img src="https://custom-icon-badges.demolab.com/badge/-Pensamento%20analítico-slateblue?style=for-the-badge&logoColor=white&logo=search" height="25" alt="discord logo"  />
   <img src="https://custom-icon-badges.demolab.com/badge/-Aprendizado%20contínuo-rebeccapurple?style=for-the-badge&logoColor=white&logo=book-open" height="25" alt="twitch logo"  />
   <img src="https://custom-icon-badges.demolab.com/badge/-Criatividade-fuchsia?style=for-the-badge&logoColor=white&logo=zap" height="25" alt="devto logo"  />
 </div>
+
 ---
 
 ### ✨ Linguagens e Tecnologias
