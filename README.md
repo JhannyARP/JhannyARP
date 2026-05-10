@@ -118,5 +118,13 @@
       height="200" 
       src="https://github-readme-streak-stats.herokuapp.com/?user=JhannyARP&theme=tokyonight" 
   />
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=JhannyARP&layout=compact&theme=tokyonight" 
+  />
+
+
 
 </p>
