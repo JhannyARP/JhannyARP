@@ -115,7 +115,7 @@
       align="left" 
       alt="GitHub Stats" 
       height="150" 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=JhannyARP&theme=tokyonight" 
+      src="https://streak-stats.demolab.com/?user=JhannyARP&theme=tokyonight" 
   />
 <img 
       align="left" 
